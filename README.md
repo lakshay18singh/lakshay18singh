@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This Site is Published at https://lakshay18singh.github.io/lakshay18singh/
+This Web app is Published at https://lakshay18singh.github.io/lakshay18singh/
